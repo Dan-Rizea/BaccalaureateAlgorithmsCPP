@@ -1,0 +1,75 @@
+V14 ex 3:
+abcduecda i=0 j=9 k=0
+i=0<9
+i<j A k=1 i=1 j=8
+b=d F k=1 i=2 j=7
+c=c A k=2 i=3 j=6
+d=e F k=2 i=4 j=5
+
+??? i<j dar ramane o singura litera, u.
+Deci, k=3 daca o luam in considerare (u=u) sau k=2.
+
+???V15 ex 3:
+i=0 abaemeiut
+baemeiut i=1
+baemeiut i=3
+bameiut  i=4
+bamiut   i=5
+bamit    i=6
+
+V16 ex 4:
+clasa a-XII-a A
+i=0 i<15
+clasaaa
+
+V17 ex 4:
+bacalaureat n=12
+b*t
+
+V18 ex 4:
+informatica
+i=0 i<12
+if (a[i]=="a" || a[i]=="o" || a[i]=="i") 
+cout<<"*";
+else cout<<a[i];
+
+V19 ex 3:
+bac2008
+i=3 i<8
+2008
+
+V20 ex 4:
+for(i=a-1;i>=0;i--)
+
+V22 ex 3:
+alfabet
+strlen(fabet)=5
+
+V26 ex 3:
+raton
+a=o
+roton
+
+V29
+char s[]="arac"
+t=r
+
+r=c
+c=r
+acar
+
+V30 ex 2:
+s[15]="Proba_E"
+strlen(s)=7
+
+V34 ex 4:
+tastatura 
+i=0 i<5
+asta
+
+
+
+
+
+ 
+

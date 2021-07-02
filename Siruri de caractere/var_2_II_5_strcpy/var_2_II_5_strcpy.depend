@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1515859500 source:c:\users\adi\desktop\13.01.2018\var_2_ii_5_strcpy\main.cpp
+	<iostream>
+	<cstring>
+
